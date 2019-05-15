@@ -1,9 +1,11 @@
 ---
-# Feel free to add content and custom Front Matter to this file.
-# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-
 layout: home
 title: Intro to Web Design
+nav_exclude: true
 ---
 
 Welcome to Web Design!
+
+Table of Contents
+
+* [Chapter 1 - Web Basics]({{ site.baseurl }}{% link book/ch1-web-basics/intro.md %})
