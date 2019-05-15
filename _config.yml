@@ -32,8 +32,8 @@ remote_theme: pmarsceill/just-the-docs
 color_scheme: "dark"
 
 aux_links:
-    "About":
-      - "//siryancy.github.com/web-design/about"
+    "This Book on GitHub":
+      - "//github.com/SirYancy/web-design"
 
 #aux_links:
 #"About"
